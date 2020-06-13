@@ -1,4 +1,4 @@
-name: Core python 
+name: test 
 
 on: [push]
 
