@@ -1,6 +1,6 @@
-# py :snake: 
+# tom :snake: 
 
-modern python starter with automated tests, code coverage, docs 
+a modern python starter kit with automated tests, code coverage, docs, pipfile, readme, licence 
 
 ![Build Status](https://github.com/selimslab/py/workflows/test/badge.svg)
 
