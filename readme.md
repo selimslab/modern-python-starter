@@ -2,8 +2,6 @@
 
 modern python starter with automated tests, code coverage, docs 
 
-[![Build Status](https://github.com/selimslab/py/workflows/test/badge.svg)](https://github.com/selimslab/py/actions)
-
 ![Build Status](https://github.com/selimslab/py/workflows/test/badge.svg)
 
 [![Codecov](https://img.shields.io/codecov/c/github/selimslab/py)](https://codecov.io/gh/selimslab/py)
